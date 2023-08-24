@@ -1,2 +1,2 @@
 # embedded-systems
-Learning some C o_O
+This repository contains exercises completed while learning C programming. o_O
