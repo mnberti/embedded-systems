@@ -1,0 +1,11 @@
+This is testing for fprintf...
+This is testing for fputs...
+This is string number 3
+This is string number 4
+This is string number 5
+This is string number 6
+This is string number 7
+This is string number 8
+This is string number 9
+This is string number 10
+Run on this date Mon Nov 13 23:03:20 2023
