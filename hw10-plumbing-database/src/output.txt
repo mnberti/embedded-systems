@@ -1,0 +1,114 @@
+Block 0
+Company Name: Marlin Plumbing
+Street: 20145 Northeast 15th Place
+City: Miami
+State: FL
+Zip: 33179
+Phone: 305.652.3031
+Cell: 305.665.8813
+Rating: 5
+Contact: Jerry
+
+
+
+Block 1
+Company Name: Florida Jetclean
+Street: 18910 North 5th Avenue
+City: Miami
+State: FL
+Zip: 33179
+Phone: 800.226.8013
+Cell: 305.884.2378
+Rating: 3
+Contact: Harry
+
+
+
+Block 2
+Company Name: Water Damage Services
+Street: 1076 NE 196 St
+City: Miami
+State: FL
+Zip: 33179
+Phone: 866.651.4297
+Cell: 786.555.1234
+Rating: 5
+Contact: James
+
+
+
+Block 3
+Company Name: Freddies Plumbing Corporation
+Street: 1301 Northease 199th Street
+City: Miami
+State: FL
+Zip: 33179
+Phone: 305.651.2983
+Cell: 786.290.6145
+Rating: 7
+Contact: Freddy
+
+
+
+Block 4
+Company Name: Lawrence Plumbing Supply
+Street: 20000 Northeast 15th Court
+City: Miami
+State: FL
+Zip: 33179
+Phone: 350.652.4191
+Cell: 305.914.6521
+Rating: 4
+Contact: Larry
+
+
+
+Block 5
+Company Name: A-Z Statewide Plumbing
+Street: 2215 Southwest 58th Terrace
+City: West Park
+State: FL
+Zip: 33023
+Phone: 954.963.5800
+Cell: 954.583.6497
+Rating: 2
+Contact: Robert
+
+
+
+Block 6
+Company Name: Harry Raskin, Inc
+Street: 20362 Northeast 16th Place
+City: Miami
+State: FL
+Zip: 33179
+Phone: 305.653.2270
+Cell: 305.653.2270
+Rating: 8
+Contact: James
+
+
+
+Block 7
+Company Name: Aarco Leak Detection
+Street: 1048 Northeast 167th Street
+City: North Miami Beach
+State: FL
+Zip: 33162
+Phone: 305.947.7283
+Cell: 786.728.9874
+Rating: 4
+Contact: Steven
+
+
+
+Block 8
+Company Name: EMPTYStreet: no dataCity: no dataState: no dataZip: no dataPhone: no dataCell: no dataRating: 0
+Contact: no data
+
+
+Block 9
+Company Name: EMPTYStreet: no dataCity: no dataState: no dataZip: no dataPhone: no dataCell: no dataRating: 0
+Contact: no data
+
+
